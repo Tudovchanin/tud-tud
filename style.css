@@ -9,7 +9,7 @@
 	box-sizing: border-box;
 }
 body {
-	background: url("images/galaktika_zemlia_set_126341_1920x1080.jpg") no-repeat;
+	background: url("picture/galaktika_zemlia_set_126341_1920x1080.jpg") no-repeat;
 	background-size: cover;
 	display: grid;
 	justify-items: center;
